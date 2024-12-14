@@ -59,11 +59,11 @@ I developed the to-do list application consisting of both a backend API and a fr
 ## Installation
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/aar-yan19/todoapp.git
 ```
 
 ```bash
-cd <your-project-name>
+cd next
 ```
 
 ```bash
