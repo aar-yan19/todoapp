@@ -20,14 +20,6 @@ JWT_SECRET=315a47ed971d16b09360834b2668fc9034fed39cd96c30998d586a7479c13e0645549
 
 ```
 
-## screenshot 
-
-<img src="/login.png" alt="login page" width="200" />
-<img src="/app.png" alt="app page" width="200" />
-<img src="/task_empty.png" alt="new task" width="200" />
-<img src="/task_example.png" alt="example to-do app page" width="200" />
-<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
-
 ## Features
 
 - POST /tasks: Create a new task with title (string), description (string), and status (default: "pending").
@@ -35,13 +27,18 @@ JWT_SECRET=315a47ed971d16b09360834b2668fc9034fed39cd96c30998d586a7479c13e0645549
 - PUT /tasks/:id: Update the task status (pending, in-progress, completed).
 - DELETE /tasks/:id: Delete a task by its ID.
 
-
 ## Additional Features
 
 - Added JWT-based authentication by adding tokens in cookie for API endpoints.
 -  Used TailwindCSS for frontend.
 
+## screenshot 
 
+<img src="/login.png" alt="login page" width="200" />
+<img src="/app.png" alt="app page" width="200" />
+<img src="/task_empty.png" alt="new task" width="200" />
+<img src="/task_example.png" alt="example to-do app page" width="200" />
+<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
 
 ### Folder/File Explanations
 
