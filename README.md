@@ -8,6 +8,17 @@ I developed the to-do list application consisting of both a backend API and a fr
 
 **Backend:** Node, mysql2(client)
 
+## make sure .env.local file is in the directory too while cloning... if not then create one and add following - 
+
+```bash
+DB_HOST=localhost
+DB_PORT=3307
+DB_USER=aryan
+DB_PASSWORD=192002
+DB_NAME=dockerdb
+JWT_SECRET=315a47ed971d16b09360834b2668fc9034fed39cd96c30998d586a7479c13e0645549bfc99162abc3a64a259511235634c103a23c72c5491c25481bf8538c160
+
+```
 
 ## Features
 
