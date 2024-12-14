@@ -4,7 +4,11 @@
 I developed the to-do list application consisting of both a backend API and a frontend web application, following the provided assignments.
 ## Tech Stack
 
-![Alt text](/login.png?raw=true "login page")
+<img src="/login.png" alt="login page" width="200" />
+<img src="/app.png" alt="app page" width="200" />
+<img src="/task_empty.png" alt="new task" width="200" />
+<img src="/task_example.png" alt="example to-do app page" width="200" />
+<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
 
 **Frontend:** Next.js, TailwindCSS
 
