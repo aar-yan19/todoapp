@@ -10,15 +10,6 @@ I developed the to-do list application consisting of both a backend API and a fr
 
 ## make sure .env.local file is in the directory too while cloning... if not then create one and add following - 
 
-## screenshot 
-
-<img src="/login.png" alt="login page" width="200" />
-<img src="/app.png" alt="app page" width="200" />
-<img src="/task_empty.png" alt="new task" width="200" />
-<img src="/task_example.png" alt="example to-do app page" width="200" />
-<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
-
-
 ```bash
 DB_HOST=localhost
 DB_PORT=3307
@@ -28,6 +19,14 @@ DB_NAME=dockerdb
 JWT_SECRET=315a47ed971d16b09360834b2668fc9034fed39cd96c30998d586a7479c13e0645549bfc99162abc3a64a259511235634c103a23c72c5491c25481bf8538c160
 
 ```
+
+## screenshot 
+
+<img src="/login.png" alt="login page" width="200" />
+<img src="/app.png" alt="app page" width="200" />
+<img src="/task_empty.png" alt="new task" width="200" />
+<img src="/task_example.png" alt="example to-do app page" width="200" />
+<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
 
 ## Features
 
