@@ -34,11 +34,11 @@ JWT_SECRET=315a47ed971d16b09360834b2668fc9034fed39cd96c30998d586a7479c13e0645549
 
 ## screenshot 
 
-<img src="/login.png" alt="login page" width="200" />
-<img src="/app.png" alt="app page" width="200" />
-<img src="/task_empty.png" alt="new task" width="200" />
-<img src="/task_example.png" alt="example to-do app page" width="200" />
-<img src="/task_example_completed_status.png" alt="change stauts to completed" width="200" />
+<img src="/login.png" alt="login page" style="float: left; margin-right: 10px;" width="200" />
+<img src="/app.png" alt="app page" style="float: left; margin-right: 10px;" width="200" />
+<img src="/task_empty.png" alt="new task" style="float: left; margin-right: 10px;" width="200" />
+<img src="/task_example.png" alt="example to-do app page" style="float: left; margin-right: 10px;" width="200" />
+<img src="/task_example_completed_status.png" style="float: left; margin-right: 10px;" alt="change stauts to completed" width="200" />
 
 ### Folder/File Explanations
 
